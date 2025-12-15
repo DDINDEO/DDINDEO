@@ -3,14 +3,14 @@
 ## Description
 **'Give Me Some Credit'** 데이터셋을 활용하여 개인 신용 파산 여부를 예측하는 머신러닝 모델 성능 비교 프로젝트.
 
-데이터의 클래스 불균형 문제를 해결하기 위해 **SMOTE(Synthetic Minority Over-sampling Technique)** 기법을 적용하였으며, 주요 알고리즘 3가지를 비교 분석하여 최적의 모델을 선정하였습니다.
+데이터의 클래스 불균형 문제를 해결하기 위해 **SMOTE(Synthetic Minority Over-sampling Technique)** 기법을 적용하였으며, 주요 알고리즘 3가지를 비교 분석하여 최적의 모델을 선정.
 
 * **Dataset:** Give Me Some Credit (Kaggle)
 * **Problem:** Class Imbalance, Binary Classification
 * **Solution:** SMOTE Oversampling
 
 ## Key Results
-SMOTE 적용 후 각 모델별 **AUC 점수**와 **Recall(재현율)** 비교 결과, **MLP (Multi-Layer Perceptron)** 모델이 가장 우수한 성능을 보였습니다.
+SMOTE 적용 후 각 모델별 **AUC 점수**와 **Recall(재현율)** 비교 결과, **MLP (Multi-Layer Perceptron)** 모델이 가장 우수한 성능을 보임.
 
 | Rank | Model | AUC Score (Std) | Recall |
 | :---: | :--- | :--- | :--- |
