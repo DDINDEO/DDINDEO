@@ -5,7 +5,7 @@
 
 데이터의 클래스 불균형 문제를 해결하기 위해 **SMOTE(Synthetic Minority Over-sampling Technique)** 기법을 적용하였으며, 주요 알고리즘 3가지를 비교 분석하여 최적의 모델을 선정.
 
-* **Dataset:** Give Me Some Credit (Kaggle)
+* **Dataset:** Give Me Some Credit (150,000개 샘플, 9개 변수)
 * **Problem:** Class Imbalance, Binary Classification
 * **Solution:** SMOTE Oversampling
 
