@@ -9,6 +9,10 @@
 * **Problem:** Class Imbalance, Binary Classification
 * **Solution:** SMOTE Oversampling
 
+### 성능 비교 그래프 
+<img width="1087" height="539" alt="image" src="https://github.com/user-attachments/assets/7693b898-7d21-4e25-b51e-832aa7650954" />
+<br>
+
 ## Key Results
 SMOTE 적용 후 각 모델별 **AUC 점수**와 **Recall(재현율)** 비교 결과, **MLP (Multi-Layer Perceptron)** 모델이 가장 우수한 성능을 보임.
 
