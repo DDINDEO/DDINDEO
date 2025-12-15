@@ -32,4 +32,6 @@ SMOTE 적용 후 각 모델별 **AUC 점수**와 **Recall(재현율)** 비교 �
 
 1. 저장소를 클론(Clone)합니다.
    ```bash
-   git clone [레포지토리 주소]
+   git clone [algoritm/algorithm project/notebooks/모델비교.ipynb]
+
+2. 데이터셋을 넣은후에 실행
