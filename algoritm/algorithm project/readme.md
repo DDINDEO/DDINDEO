@@ -9,8 +9,16 @@
 * **Problem:** Class Imbalance, Binary Classification
 * **Solution:** SMOTE Oversampling
 
-### 성능 비교 그래프 
+### 성능 비교 그래프(AUC)
 <img width="1087" height="539" alt="image" src="https://github.com/user-attachments/assets/7693b898-7d21-4e25-b51e-832aa7650954" />
+<br>
+
+### 성능 비교 그래프(Classification report)
+<img width="350" height="143" alt="image" src="https://github.com/user-attachments/assets/212f6d7b-b167-48b8-b479-0dfdd22a9d43" />
+<img width="344" height="141" alt="image" src="https://github.com/user-attachments/assets/8fd29c75-a122-45a0-bcc9-698271663ce6" />
+<img width="340" height="139" alt="image" src="https://github.com/user-attachments/assets/97d1d7a3-3d9a-4213-99c9-7a9e8097388d" />
+
+
 <br>
 
 ## Key Results
