@@ -10,7 +10,8 @@
 일반 사용자는 경기 일정 확인 및 응원 댓글 작성이 가능하며, 관리자는 경기 정보와 댓글을 관리할 수 있습니다.
 
 ## 프로그램 결과 이미지 확인
-images 안에 crud 이미지 확인
+images 안에 crud 이미지 확인   
+[images 이동](java/LCKscheduleApp/images/CRUD_image)
 
 ## 다이어그램   
 <img width="746" height="621" alt="image" src="https://github.com/user-attachments/assets/3edcfa9b-d06b-4c00-8d24-4162cdf57051" />
@@ -43,9 +44,6 @@ images 안에 crud 이미지 확인
 Java(JRE)가 설치된 환경에서 `cmd`(명령 프롬프트)를 실행한 후 아래 절차를 따릅니다.
 
 1. `LCKapp.jar` 파일이 있는 경로로 이동합니다.
-   ```bash
-   cd [파일경로]
-   ```
 
 2. 아래 명령어를 입력하여 프로그램을 실행합니다.
    ```bash
