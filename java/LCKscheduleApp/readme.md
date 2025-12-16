@@ -9,6 +9,9 @@
 이 프로젝트는 LCK(LoL Champions Korea) 경기 일정을 조회하고 팬들이 소통할 수 있는 데스크톱 애플리케이션입니다.
 일반 사용자는 경기 일정 확인 및 응원 댓글 작성이 가능하며, 관리자는 경기 정보와 댓글을 관리할 수 있습니다.
 
+## 프로그램 결과 이미지 확인
+images 안에 crud 이미지 확인
+
 ## 다이어그램   
 <img width="746" height="621" alt="image" src="https://github.com/user-attachments/assets/3edcfa9b-d06b-4c00-8d24-4162cdf57051" />
 
