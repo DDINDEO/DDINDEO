@@ -11,7 +11,7 @@
 
 ## 프로그램 결과 이미지 확인
 images 안에 crud 이미지 확인   
-[images 이동](/images/CRUD_image)
+[images 이동](java/LCKscheduleApp/images/CRUD_image)
 
 ## 다이어그램   
 <img width="746" height="621" alt="image" src="https://github.com/user-attachments/assets/3edcfa9b-d06b-4c00-8d24-4162cdf57051" />
