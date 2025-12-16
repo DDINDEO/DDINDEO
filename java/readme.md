@@ -9,7 +9,7 @@
 
 | No. | Project Name | Description | Tech Stack | Status |
 | :---: | :--- | :--- | :--- | :---: |
-| **01** | [**LCK 경기 일정 관리 시스템**](java/LCKscheduleApp) | LCK 경기 일정 조회 및 팬 소통 커뮤니티 앱 | `Java Swing`, `MySQL` | Done |
+| **01** | [**LCK 경기 일정 관리 시스템**](LCKscheduleApp) | LCK 경기 일정 조회 및 팬 소통 커뮤니티 앱 | `Java Swing`, `MySQL` | Done |
 | **02** | *(Next Project)* | *(준비 중입니다)* | - | - |
 
 ---
