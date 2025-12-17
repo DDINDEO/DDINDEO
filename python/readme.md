@@ -1,4 +1,4 @@
-# 📊 Algorithm & Machine Learning Projects
+# 📊 Python Projects
 
 **Python을 활용한 데이터 분석 및 머신러닝 알고리즘 성능 비교 프로젝트 모음입니다.**
 데이터 전처리(Preprocessing), 클래스 불균형 해결(SMOTE), 그리고 다양한 분류 모델의 성능 평가를 수행한 결과물들이 포함되어 있습니다.
@@ -10,7 +10,8 @@
 | No. | Project Name | Topic | Tech Stack | Folder Link |
 | :---: | :--- | :--- | :--- | :---: |
 | **01** | [**알고리즘 성능 비교 분석**](Algorithm_Performance_Analysis) | 신용 파산 예측 & 모델 비교 | `Python`, `Scikit-learn` | [이동하기](Algorithm_Performance_Analysis) |
-| **02** | *(Next Project)* | *(추후 업데이트 예정)* | - | - |
+| **02** | [**cafeManager**](cafeManager) | 카페 주문 및 재고/매출 통합 관리 시스템 | `Python`, `MySQL` | [이동하기](cafeManager) |
+| **03** | *(Next Project)* | *(추후 업데이트 예정)* | - | - |
 
 ---
 
@@ -48,6 +49,18 @@ Python 환경에서 아래 절차를 따르십시오.
    * Python Script(`*.py`) 파일인 경우:
 
         python main.py
+
+<br>
+
+### 3. 카페 주문 및 재고/매출 통합 관리 시스템 (cafeManager)
+> **데이터 기반의 카페 주문 및 재고/매출 통합 관리 시스템**
+
+* **개발 기간**: 2025년 12월 17일 ~ 진행중
+* **주요 내용**:
+    * **User**: 상품 주문, 실시간 재고 연동, 주문 데이터 생성
+    * **Admin**: 신규 메뉴 등록, 가격 수정, 재고 입고, 매출 리포팅
+    *  `python`과 `MySQL` 연동
+* **바로가기**: [👉 cafeManager 폴더로 이동](cafeManager)
 
 ---
 
